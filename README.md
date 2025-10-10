@@ -1,6 +1,6 @@
 
 
-## Please look at the <font color="#d9534f"><b>clear explanation</b></font> — the results and analysis are included there.
+# Please look at the <font color="#d9534f"><b>clear explanation</b></font> — the results and analysis are included there.
 
 # 🏡 Real Estate Price Prediction with Machine Learning  
 
