@@ -1,5 +1,4 @@
-## Please look at the <span style="color:red; font-weight:bold;">clear explanation</span> — the results and analysis are included there.
-
+## <span style="color:red; font-weight:bold;">Please look at the clear explanation — the results and analysis are included there.</span>
 
 # 🏡 Real Estate Price Prediction with Machine Learning  
 
