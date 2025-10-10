@@ -1,3 +1,5 @@
+Please look at the **clear explanation** — the results and analysis are included there.
+
 # 🏡 Real Estate Price Prediction with Machine Learning  
 
 ## 📌 Project Overview  
@@ -5,6 +7,8 @@ This project was developed for **BISM7217 – Machine Learning for Analysis (UQ,
 The aim is to predict whether a property in the Australian real estate market will be sold at a **higher** or **lower** price than its listed price.  
 
 The task was a **binary classification problem**, with a dataset of approximately 7,000 property transactions.  
+
+
 
 ---
 
